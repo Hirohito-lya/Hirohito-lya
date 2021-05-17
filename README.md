@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hirohito-lya
 - 👀 I’m interested in 
 - Web technologies
-- Java
 - Nodejs
 - Python
 <!---
